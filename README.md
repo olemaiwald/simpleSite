@@ -1,2 +1,2 @@
 # simpleSite
-In this project, I used an API to display, post and delete blogposts in a Next App
+This repository contains a simple Next.js website. The site will be connected to a server acting as an API to manage blogposts.
