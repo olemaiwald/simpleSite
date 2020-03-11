@@ -21,15 +21,7 @@ let posts = [
     name: "Beispielpost",
     date: Date("2019-12-25T"),
     content: "Dies ist der erste vom Server bereitgestellte Beispielpost.",
-    author: "Dominik Vogt"
-  },
-  {
-    id: 2,
-    name: "Karrierefreund wird gegründet!",
-    date: Date("2020-01-01T"),
-    content:
-      "Jonas Stegh und David Döbele, beide Absolventen der Goethe-Universität in Frankfurt, haben das Startup Karrierefreund gegründet. Das Ziel des Unternehmens ist es engagierte Studenten darin zu unterstützen ihren Traumberuf zu erreichen.",
-    author: "Karrierefreund Bot"
+    author: "Ole Maiwald"
   }
 ];
 
